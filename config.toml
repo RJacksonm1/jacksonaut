@@ -1,3 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://jacksonaut.space/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Cybernautical Adventures"
+theme = "jacksonaut-theme"
+
+[blackfriday]
+extensions = ["hardLineBreak"]
